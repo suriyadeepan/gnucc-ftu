@@ -12,4 +12,4 @@
 6. Link and Load : static vs shared libraries
 7. Multithreading : Why and When?
 8. VIM and EMACS 
-9. Still reading?
+9. Still reading? Yes
