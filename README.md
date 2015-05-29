@@ -4,12 +4,13 @@
 
 ## Chapters
 
-1. GCC Design Goals
+1. GCC : A Bird's-eye view
 2. Compilation : Shortest Manual Ever
 3. Compiler is smarter than you think
-4. Macro : A lanuguage in itself
-5. Debugging : Beyond printf statements
-6. Link and Load : static vs shared libraries
-7. Multithreading : Why and When?
-8. VIM and EMACS 
-9. Still reading? Yes
+4. Make it yourself
+5. Macro : A lanuguage in itself
+6. Debugging : Beyond printf statements
+7. Link and Load : static vs shared libraries
+8. Multithreading : The real deal
+9. VIM and EMACS 
+10. Still reading? Yes
